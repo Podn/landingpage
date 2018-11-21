@@ -2,8 +2,8 @@
 # Site
 
 title: Podn
-url: "podn.github.io/landingpage"
-baseurl: "podn.github.io/landingpage"
+url: "podn.github.io"
+baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
