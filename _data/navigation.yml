@@ -1,4 +1,4 @@
-- name: Sign Up
+- name: Get Started Free
   link: /sign-up
   new_window: false
   highlight: true

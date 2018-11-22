@@ -235,6 +235,11 @@ blockquote:before {
       background-color: #f4d525;
       color: #333; }
 
+.how-works {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 3.2em; }
+
 .plans {
   -webkit-flex-flow: wrap;
   -moz-flex-flow: wrap;
