@@ -94,10 +94,7 @@ p, address {
     .flex .text, .flex .image {
       -webkit-flex: 1;
       flex: 1;
-      padding: 0 20px; }
-
-  .content section:nth-child(even) .flex {
-    flex-direction: row-reverse; } }
+      padding: 0 20px; } }
 .container, .text-container {
   margin: 0 auto;
   position: relative;
@@ -107,7 +104,7 @@ p, address {
   max-width: 750px; }
 
 .container {
-  max-width: 1140px; }
+  max-width: 800px; }
   .container.max-container {
     max-width: 100%;
     padding: 0; }
@@ -238,11 +235,10 @@ blockquote:before {
 .how-works {
   text-align: center;
   padding-top: 30px;
-  font-size: 3.2em; }
+  font-size: 2.3em; }
 
 img.resize {
-  width: 200px;
-  height: auto; }
+  width: 100px; }
 
 .plans {
   -webkit-flex-flow: wrap;

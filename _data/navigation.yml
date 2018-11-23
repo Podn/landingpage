@@ -1,7 +1,7 @@
-- name: Create a podcast
-  link: /sign-up
-  new_window: false
-  highlight: true
+# - name: Create a podcast
+#   link: /sign-up
+#   new_window: false
+#   highlight: true
 # - name: Pricing
 #   link: /pricing/
 #   new_window: false
